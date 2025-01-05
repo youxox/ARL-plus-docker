@@ -66,8 +66,6 @@ vim docker-compose.yml
 ![image](https://github.com/user-attachments/assets/891bfa62-d130-4e1b-a269-678fc8659bcd)
 
 
-# 团队微信
-![b4fd06ae7fb4d6a977754f3077c7274](https://github.com/ki9mu/ARL-plus-docker/assets/47977616/48ec6b67-dcaa-4f59-b845-b3d3ede31eda)
 
 
 # Q&A
